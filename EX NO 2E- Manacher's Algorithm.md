@@ -19,7 +19,6 @@ using Manacher's Algorithm
 ## Program:
 ```
 /*
-Program to implement Reverse a String
 Developed by: Tirupathi Jayadeep
 Register Number:  212223240169
 */
