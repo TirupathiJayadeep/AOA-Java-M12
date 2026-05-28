@@ -25,7 +25,6 @@ Output: Pattern found at index 0, Pattern found at index 9, Pattern found at ind
 ## Program:
 ```
 /*
-Program to implement Reverse a String
 Developed by: Tirupathi Jayadeep
 Register Number:  212223240169
 */
