@@ -36,7 +36,6 @@ Your goal is to maximize total profit while completing the maximum number of job
 ## Program:
 ```
 /*
-Program to implement Reverse a String
 Developed by: Tirupathi Jayadeep
 Register Number:  212223240169
 */
